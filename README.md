@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/math226/)
 [![Website](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://konect.gg/math226)
 
-# Hello! I'm Matheus Servan, Back-end junior developer, from Brazil - Games Designer and Level Designer 🐱👩‍💻
+# Hello! I'm Matheus Servan, Back-end Junior Developer, from Brazil - Games Designer and Level Designer 🐱👩‍💻
 
 ## More about me ✨
 - I love to sing 🎙️
