@@ -11,4 +11,4 @@
 - Games Designer 🎮
 - Level Designer 🐱
 - Streamer | Twitch Affiliate 📽️
-- Gamer 🎮
+- Lua, C++ and Java
