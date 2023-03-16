@@ -8,7 +8,6 @@
 # Hello! I'm Matheus Servan, Back-end Junior Developer, from Brazil - Games Designer and Level Designer 🐱👩‍💻
 
 ## More about me ✨
-- I love to sing 🎙️
 - Games Designer 🎮
 - Level Designer 🐱
 - Streamer | Twitch Affiliate 📽️
